@@ -19,7 +19,9 @@ It orchestrates one or more **segmentation engines** and — if multiple engines
 ---
 
 
-https://github.com/user-attachments/assets/d38d8e4f-ab49-4c16-a9eb-ab7d789e64ce
+
+https://github.com/user-attachments/assets/5b17675a-edea-4b84-9a99-a6c0fa0b0ef2
+
 
 
 ---
